@@ -54,7 +54,7 @@ header h1 {
 
 header p {
     padding: 5px;
-    width: 500px;
+    max-width: 500px;
     margin: auto;
 }
 
